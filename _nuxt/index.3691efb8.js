@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html >
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>slum.trade | OTC, Points &amp; Pre-Market</title>
+<meta name="description" content="slum.trade is an OTC, points and pre-market DeFi protocol designed to allow traders to find counterparties for low-liquidity tokens.">
+<meta name="twitter:title" content="slum.trade | OTC, Points & Pre-Market">
+<meta name="twitter:url" content="https://dump.trade">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@slumtrade">
+<meta name="twitter:image" content="/socials.png">
+<meta name="og:url" content="https://dump.trade">
+<meta name="og:title" content="slum.trade | OTC, Points & Pre-Market">
+<meta name="og:description" content="slum.trade is an OTC, points and pre-market DeFi protocol designed to allow traders to find counterparties for low-liquidity tokens.">
+<meta name="og:image" content="/socials.png">
+<link rel="stylesheet" href="/_nuxt/entry.76adbe05.css">
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/entry.16c5462c.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DownLeft.c463ad02.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DownRight.d2e8aeb6.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/UpLeft.8ca586fd.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/UpRight.a2f84201.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Down.3d192076.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Left.6e7a9297.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Right.48f59af8.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Up.35bfc767.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Login.1020c988.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Logout.1b19dd14.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Flip.ac14efe1.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Jixo.ea2b1e10.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/TokenPatrick.18556f90.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Veronica.c788f6a6.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Info.0cbabbac.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Grid.e55c17b0.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/List.2833d619.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/RevenueSharing.cb8c79a8.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Rewards.042c3358.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Enter.1b1d9ae0.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Regular.61c75051.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DUMP.cb859f00.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/LayerZero.9118bd6a.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Arbitrum.bd30ae5f.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/1inch.9defb844.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BaseChain.ce5b8c7e.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Blast.449e246e.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DEXScreener.d18cb207.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DexTools.ab589c41.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Ethereum.9aaa0707.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Sushi.44b34ac8.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Telegram.8191c35e.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Uniswap.92f27e2f.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Paraswap.4e1087bd.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/X.9d4a96c5.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Cross.0f7bdfd4.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DoubleClock.2b8a9aa6.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Exit.8df6bb71.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/File.bd286c36.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Handshake.bc116aad.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Home.88307e72.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Menu.abf6c95e.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Palette.97414000.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Rocket.85b2c67c.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Wallet.262ebcd5.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Spark.f65f0082.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/TargetPoint.b16f948e.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ThumbsUp.aa03096b.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ThumbsDown.9333b2ce.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Product.301b1cea.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Token.6603037b.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Socials.7e8d4893.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DUMP.868162f4.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Unknown.5c59b137.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Danger.98cff2fd.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Info.19245846.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Success.840664b7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Warning.5a6db2ee.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.e6960aa9.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.f4b12aa4.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Home.3d3f9232.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Home.vue.c7b6a03f.js">
+<link rel="prefetch" as="style" href="/_nuxt/Mobile.7098e467.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Product.b5a2f764.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Product.vue.1a45f84c.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Mobile.vue.be7de631.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Token.d359213f.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Token.vue.abf954a4.js">
+<link rel="prefetch" as="style" href="/_nuxt/Socials.7d51f081.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Socials.08fb25df.js">
+<link rel="prefetch" as="style" href="/_nuxt/index.dd5235cc.css">
+<link rel="prefetch" as="style" href="/_nuxt/Select.a07c6e04.css">
+<link rel="prefetch" as="style" href="/_nuxt/LoadingDots.935d0844.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.f095e9ad.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.vue.74020ad3.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Test.vue.a0f14339.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/useForm.3e4d564e.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Select.74f8e480.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/LoadingDots.68a50a62.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.235c8c1b.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/token.1b6e2baf.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/marketplace.0e0b3079.js">
+<link rel="prefetch" as="style" href="/_nuxt/index.9751649a.css">
+<link rel="prefetch" as="style" href="/_nuxt/Loader.79046a2a.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.a3a030cb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.vue.81a3fdcd.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Loader.9d1555c7.js">
+<link rel="prefetch" as="style" href="/_nuxt/index.352f3797.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.091cdcdf.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.vue.a8408e51.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/bignumber.266e6c56.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.c237dd5c.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.vue.74f152aa.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.900c2f69.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/index.vue.1f831b6f.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/layerzero.89102e90.js">
+<link rel="prefetch" as="style" href="/_nuxt/error-404.871584dc.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/error-404.fccac3d1.js">
+<link rel="prefetch" as="style" href="/_nuxt/error-500.5504fd74.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/error-500.67d90392.js">
+<script type="module" src="/_nuxt/entry.16c5462c.js" crossorigin></script>
+<script id="unhead:payload" type="application/json">{"title":"slum.trade | OTC, Points & Pre-Market"}</script></head>
+<body ><div id="__nuxt"></div><script type="application/json" id="__NUXT_DATA__" data-ssr="false">[{"_errors":1,"serverRendered":2,"data":3,"state":4},{},false,{},{}]</script>
+<script>window.__NUXT__={};window.__NUXT__.config={public:{MORALIS:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImM2MjNlOTczLWE4YTItNDU4NC1hZTI3LTZhMmY2Yzc4NmE2YiIsIm9yZ0lkIjoiMzQ3NDc0IiwidXNlcklkIjoiMzU3MTY5IiwidHlwZUlkIjoiNzg4ZjFmNmEtNTM5ZC00N2ZkLWJjMWMtNmY2YzkxYmQ1ZDcwIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE2OTEzMzY2MTMsImV4cCI6NDg0NzA5NjYxM30.In9SFjCvY50QuSV-jv8mbBGIXv2EzZ8DCtSD1pmsE-A",APP_NETWORK:"mainnet",WALLET_DAPP_URL:"https://dump.trade",WALLET_PROJECT_ID:"97baa5bcdc164f9c51c5656fc3a6626c",GTAG_ID:"G-86B3N9GVG2",persistedState:{storage:"cookies",debug:false,cookieOptions:{}}},app:{baseURL:"/",buildAssetsDir:"/_nuxt/",cdnURL:""}}</script></body>
+</html>

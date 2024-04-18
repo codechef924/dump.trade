@@ -1,0 +1,1 @@
+import{av as e,a1 as t,a2 as o,a6 as s}from"./entry.3d3e841c.js";const c={},a={width:"20",height:"20",viewBox:"0 0 20 20",fill:"currentColor",xmlns:"http://www.w3.org/2000/svg"},n=s("path",{d:"M12 6L8 10L12 14L12 6Z"},null,-1),r=[n];function _(i,l){return t(),o("svg",a,r)}const h=e(c,[["render",_]]);export{h as default};

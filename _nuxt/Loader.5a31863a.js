@@ -1,0 +1,1 @@
+import{av as s,a1 as o,a2 as r,a9 as a}from"./entry.0b904d76.js";const n="_loader_19sz9_1",l={loader:n},t={};function c(e,_){return o(),r("div",{class:a([e.$style.loader,"w-8 h-8 rounded-full border-2 border-solid border-transparent border-t-secondary animate-spin will-change-transform"])},null,2)}const d={$style:l},m=s(t,[["render",c],["__cssModules",d]]);export{m as _};
