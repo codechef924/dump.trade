@@ -2668,7 +2668,7 @@ const mc = { class: "grid gap-6 justify-center items-center" },
       L(
         "p",
         { class: "typo-caption-s text-secondary-80%" },
-        "Send $SLUM token across chains."
+        "Send $DIP token across chains."
       ),
     ],
     -1
@@ -2688,7 +2688,7 @@ const mc = { class: "grid gap-6 justify-center items-center" },
   Tc = L(
     "span",
     { class: "overflow-hidden whitespace-nowrap text-ellipsis typo-button-s" },
-    "$SLUM",
+    "$DIP",
     -1
   ),
   Pc = {

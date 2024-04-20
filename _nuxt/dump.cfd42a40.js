@@ -17,7 +17,7 @@ import "./index.876393f5.js";
 import "./token.b8b897cd.js";
 import "./marketplace.49210690.js";
 const A = _({
-  __name: "slum",
+  __name: "dip",
   setup(d) {
     const { dump: t, bridge: a, pump: p, "pump-id": r, rewards: s } = c();
     return (P, h) => {

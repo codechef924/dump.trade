@@ -108957,7 +108957,7 @@ const Lx = es,
       aBe({
         ethersConfig: oBe({
           metadata: {
-            name: "Slum Trade",
+            name: "Dip Trade",
             description: "My Website description",
             url: t,
             icons: ["https://avatars.mywebsite.com/"],
@@ -109276,7 +109276,7 @@ const Lx = es,
     class: "flex gap-1 items-center px-2.5 py-1 border-r border-secondary",
   },
   GWe = { class: "px-2.5 py-1 border-r border-secondary" },
-  KWe = lr("span", { class: "text-secondary-40%" }, "$SLUM", -1),
+  KWe = lr("span", { class: "text-secondary-40%" }, "$DIP", -1),
   ZWe = { class: "px-2.5 py-1 border-r border-secondary" },
   JWe = lr("span", { class: "text-secondary-40%" }, "$ETH", -1),
   YWe = { class: "px-2.5 py-1" },
@@ -109568,7 +109568,7 @@ const Lx = es,
       ),
       path: "/dump",
       name: "dump",
-      label: "Slum",
+      label: "Dip",
     },
     pump: {
       component: fo(

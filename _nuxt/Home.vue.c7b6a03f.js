@@ -28,7 +28,7 @@ const C = {
   $ = i(
     "h1",
     { class: "typo-h5 xs:typo-h4 lg:typo-h4 medium-lg:typo-h3" },
-    "Buy & slum tokens, smoothly.",
+    "Buy & dip tokens, smoothly.",
     -1
   ),
   L = i(

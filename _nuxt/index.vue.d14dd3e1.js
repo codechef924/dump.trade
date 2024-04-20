@@ -850,7 +850,7 @@ const De = {
                                         f(
                                           "p",
                                           nt,
-                                          " The Slum Marketplace is currently only available on Testnet "
+                                          " The Dip Marketplace is currently only available on Testnet "
                                         )),
                                   ]),
                                   _: 1,

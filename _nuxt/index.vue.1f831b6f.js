@@ -2666,7 +2666,7 @@ const hc = { class: "grid gap-6 justify-center items-center" },
       D(
         "p",
         { class: "typo-caption-s text-secondary-80%" },
-        "Send $SLUM token across chains."
+        "Send $DIP token across chains."
       ),
     ],
     -1

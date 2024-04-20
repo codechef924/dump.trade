@@ -28,7 +28,7 @@ const C = {
   $ = i(
     "h1",
     { class: "typo-h5 xs:typo-h4 lg:typo-h4 medium-lg:typo-h3" },
-    "Buy & slum tokens, smoothly.",
+    "Buy &  tokens, smoothly.",
     -1
   ),
   L = i(
@@ -73,7 +73,7 @@ const C = {
               {
                 default: o(() => [
                   a(p, {
-                    name: "Logo/Text/SLUM",
+                    name: "Logo/Text/DIP",
                     height: "1rem",
                     class: "w-auto h-6 lg:h-4 medium-lg:h-6 self-center",
                   }),

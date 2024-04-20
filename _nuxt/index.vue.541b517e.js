@@ -358,7 +358,7 @@ const Le = {
   We = t(
     "h1",
     { class: "typo-h6" },
-    [t("span", { class: "text-secondary-40%" }, "$"), m(" SLUM")],
+    [t("span", { class: "text-secondary-40%" }, "$"), m(" DIP")],
     -1
   ),
   Xe = {

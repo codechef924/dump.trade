@@ -45,7 +45,7 @@ const l = {},
   ),
   _ = [s, d, c, r];
 function a(i, h) {
-  return t(), o("img", { src: "../images/site-logo.png", alt: "QR Code" });
+  return t(), o("img", { src: "../images/brand-logo.png", alt: "QR Code" });
   // return t(), o("svg", n, _);
 }
 const u = e(l, [["render", a]]);

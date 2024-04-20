@@ -850,7 +850,7 @@ const De = {
                                         f(
                                           "p",
                                           nt,
-                                          " The Slum Marketplace is currently only available on Testnet "
+                                          " The Dip Marketplace is currently only available on Testnet "
                                         )),
                                   ]),
                                   _: 1,
@@ -916,7 +916,7 @@ const De = {
               {
                 default: s(() => [
                   Ve(a(C, { symbol: o(m) }, null, 8, ["symbol"]), [
-                    [ke, o(k).currentRoute.value.name === "slum"],
+                    [ke, o(k).currentRoute.value.name === "dip"],
                   ]),
                 ]),
                 _: 1,

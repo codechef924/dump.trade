@@ -457,7 +457,7 @@ const re = () => {
   nt = l(
     "span",
     null,
-    "The Slum Marketplace is currently only available on Testnet",
+    "The Dip Marketplace is currently only available on Testnet",
     -1
   ),
   ot = [nt],

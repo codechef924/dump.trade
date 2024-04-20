@@ -108936,7 +108936,7 @@ const Lx = es,
       sBe({
         ethersConfig: iBe({
           metadata: {
-            name: "Slum Trade",
+            name: "Dip Trade",
             description: "My Website description",
             url: t,
             icons: ["https://avatars.mywebsite.com/"],
@@ -109245,7 +109245,7 @@ const Lx = es,
     class: "flex gap-1 items-center px-2.5 py-1 border-r border-secondary",
   },
   qWe = { class: "px-2.5 py-1 border-r border-secondary" },
-  VWe = hr("span", { class: "text-secondary-40%" }, "$SLUM", -1),
+  VWe = hr("span", { class: "text-secondary-40%" }, "$DIP", -1),
   GWe = { class: "px-2.5 py-1 border-r border-secondary" },
   KWe = hr("span", { class: "text-secondary-40%" }, "$ETH", -1),
   ZWe = { class: "px-2.5 py-1" },
@@ -109539,7 +109539,7 @@ const Lx = es,
       ),
       path: "/dump",
       name: "dump",
-      label: "Slum",
+      label: "Dip",
     },
     pump: {
       component: fo(

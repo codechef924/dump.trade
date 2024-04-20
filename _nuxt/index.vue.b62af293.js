@@ -516,13 +516,13 @@ const x = [
   oe = a(
     "h2",
     { class: "typo-caption-bold-m" },
-    "SLUM redistribute dividends to token holders",
+    "DIP redistribute dividends to token holders",
     -1
   ),
   re = a(
     "p",
     { class: "typo-caption-m" },
-    "You can earn $ETH rewards by holding $SLUM. Dividends come from protocol revenues and trading taxes and are specific to each blockchain (meaning you will earn different yields based on the chain you hold your $SLUM on)",
+    "You can earn $ETH rewards by holding $DIP. Dividends come from protocol revenues and trading taxes and are specific to each blockchain (meaning you will earn different yields based on the chain you hold your $DIP on)",
     -1
   ),
   de = {
