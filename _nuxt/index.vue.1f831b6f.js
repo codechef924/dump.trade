@@ -2686,7 +2686,7 @@ const hc = { class: "grid gap-6 justify-center items-center" },
   _c = D(
     "span",
     { class: "overflow-hidden whitespace-nowrap text-ellipsis typo-button-s" },
-    "$DUMP",
+    "$DIP",
     -1
   ),
   kc = {

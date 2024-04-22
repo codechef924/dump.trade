@@ -475,7 +475,7 @@ const Le = {
                       ),
                       s(
                         l,
-                        { value: e.listing.availableTokens, unit: "$DUMP" },
+                        { value: e.listing.availableTokens, unit: "$DIP" },
                         { default: i(() => [m(" Offer ")]), _: 1 },
                         8,
                         ["value"]
@@ -852,7 +852,7 @@ const Le = {
                                   h,
                                   {
                                     value: o.listing.availableTokens,
-                                    unit: "$DUMP",
+                                    unit: "$DIP",
                                   },
                                   {
                                     default: i(() => [m(" Remaining ")]),
@@ -960,7 +960,7 @@ const Le = {
                                                                     step: 1e-5,
                                                                   },
                                                                   suffix:
-                                                                    "$DUMP",
+                                                                    "$DIP",
                                                                 },
                                                                 null,
                                                                 8,
